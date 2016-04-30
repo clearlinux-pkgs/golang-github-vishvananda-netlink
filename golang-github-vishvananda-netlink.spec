@@ -4,7 +4,7 @@
 #
 Name     : golang-github-vishvananda-netlink
 Version  : a632d6dc2806fa19d2f7693017d3fb79d3d8fa03
-Release  : 2
+Release  : 3
 URL      : https://github.com/vishvananda/netlink/archive/a632d6dc2806fa19d2f7693017d3fb79d3d8fa03.tar.gz
 Source0  : https://github.com/vishvananda/netlink/archive/a632d6dc2806fa19d2f7693017d3fb79d3d8fa03.tar.gz
 Summary  : No detailed summary available
